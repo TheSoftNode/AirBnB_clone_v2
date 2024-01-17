@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" CleanUp """
+""" CleaningUp """
 from fabric.api import *
 from datetime import datetime
 from os import path
